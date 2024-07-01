@@ -29,4 +29,3 @@ This project is an interactive countdown timer built using React, designed to di
 - React
 - HTML/CSS
 - JavaScript
-```
