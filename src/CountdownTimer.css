@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    flex-direction: column;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 20px; /* Adjust margin as needed */
+  }
+  
+  .timer {
+    font-size: 3rem;
+    text-align: center;
+    color: #ff0000;
+  }
+  
