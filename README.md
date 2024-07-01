@@ -1,8 +1,33 @@
-# React + Vite
+# Countdown Timer App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+A countdown timer implemented in React using useState and useEffect hooks.
 
-Currently, two official plugins are available:
+## Features
+- Dynamic countdown display in minutes and seconds.
+- Utilizes React hooks (`useState` and `useEffect`) for state management and timer functionality.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+1. **Clone the repository:**
+   ```bash
+   git clone <repository_url>
+   cd countdown-timer-react
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Run the application:**
+   ```bash
+   npm start
+   ```
+   Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+## Technologies Used
+- React
+- HTML/CSS
+- JavaScript
+```
+
