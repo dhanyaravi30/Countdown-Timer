@@ -1,7 +1,7 @@
 # Countdown Timer App
 
 ## Overview
-A countdown timer implemented in React using useState and useEffect hooks.
+This project is an interactive countdown timer built using React, designed to display and update a countdown based on user-defined initial time.
 
 ## Features
 - Dynamic countdown display in minutes and seconds.
@@ -11,7 +11,7 @@ A countdown timer implemented in React using useState and useEffect hooks.
 1. **Clone the repository:**
    ```bash
    git clone <repository_url>
-   cd countdown-timer-react
+   cd Timer-React
    ```
 
 2. **Install dependencies:**
@@ -30,4 +30,3 @@ A countdown timer implemented in React using useState and useEffect hooks.
 - HTML/CSS
 - JavaScript
 ```
-
